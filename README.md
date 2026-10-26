@@ -1,4 +1,6 @@
-# Global Motorsport Circuits JSON
+<p align="center">
+  <img src="./motorsport-circuits.svg" alt="Global Motorsport Circuits JSON" width="100%">
+</p>
 
 **A dependency-free, version-controlled catalog of 239 motorsport circuit layouts and metadata, distributed as plain JSON so developers can build track visualizations, racing apps, and dashboards without tracing layouts by hand.**
 
